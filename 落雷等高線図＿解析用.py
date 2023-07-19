@@ -19,7 +19,7 @@ ax2 = f.add_axes([le+w1+he, 1-te-h, w2, h])
 ax3 = f.add_axes([le, be, w1, h])
 ax4 = f.add_axes([le+w1+he, be, w2, h])
 
-strRoot = r"C:\Users\yukit\Downloads\python05-data (1)\python05-data"
+strRoot = r"ここにデータファイルパスを添付"
 strMat = os.listdir(strRoot)
 strMat.sort()
 
